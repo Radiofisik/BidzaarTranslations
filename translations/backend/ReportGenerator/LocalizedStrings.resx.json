@@ -230,7 +230,7 @@
     "SortType.WithOrderFirst": "Вначале с заказом",
     "String1ParticipantBusinessStatus.Refused": "Отказался от участия",
     "Summary.AcceptanceEnd": "Прием предложений до",
-    "Summary.Currency": "Валюта запроса:",
+    "Summary.Currency": "Валюта запроса",
     "Summary.Link": "Ссылка",
     "Summary.NoVat": "Цены без НДС",
     "Summary.NowDateString": "Документ сформирован сервисом Bidzaar в {Now}, время в документе указано в часовом поясе {Tz}",
