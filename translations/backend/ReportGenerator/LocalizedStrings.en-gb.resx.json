@@ -220,7 +220,7 @@
     "SortType.WithOrderFirst": "First with order",
     "String1ParticipantBusinessStatus.Refused": "Refused to participate",
     "Summary.AcceptanceEnd": "Deadline for proposals:",
-    "Summary.Currency": "Request currency:",
+    "Summary.Currency": "Request currency",
     "Summary.NoVat": "Prices without VAT",
     "Summary.Number": "The code:",
     "Summary.Owner": "Organizer:",
